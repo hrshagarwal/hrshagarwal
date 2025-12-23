@@ -35,4 +35,4 @@ You can find me on GitHub or LinkedIn.
 
 ### 🔗 Links
 - GitHub: https://github.com/hrshagarwal  
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- LinkedIn: https://www.linkedin.com/in/harshagarwal22/
