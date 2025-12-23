@@ -1,3 +1,5 @@
+<img src="github_banner.png" alt="banner" />
+
 # Hello there 👋
 
 I'm **Harsh Agarwal**, a software developer who enjoys building clean systems and understanding how things work under the hood.
