@@ -1,8 +1,6 @@
 <img src="github_banner.png" alt="Header" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat" alt="profile views" />
-</p>
+
 
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
@@ -58,3 +56,7 @@ You can find me on GitHub or LinkedIn.
 ### 🔗 Links
 - GitHub: https://github.com/hrshagarwal  
 - LinkedIn: https://www.linkedin.com/in/harshagarwal22/
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat" alt="profile views" />
+</p>
