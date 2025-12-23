@@ -1,36 +1,38 @@
-<img src="github_banner.png" alt="banner" />
+<img src="github_banner.png" alt="Header" />
 
-# Hello there 👋
+# Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
-I'm **Harsh Agarwal**, a software developer who enjoys building clean systems and understanding how things work under the hood.
+My name is **Harsh Agarwal**.  
+I enjoy learning how software systems work, building things step by step, and improving through problem-solving.
 
-I mostly work with backend technologies, enjoy problem-solving, and occasionally experiment with system-level and automation ideas.
-
----
-
-## 🛠 Technologies & Tools
-
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-gray?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+You can find me on GitHub or LinkedIn.
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Technologies & Tools
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=graywhite)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ---
 
-## 🔗 Find Me
+## 📈 GitHub Stats
 
+<a href="https://github.com/hrshagarwal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/hrshagarwal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+---
+
+### 🔗 Links
 - GitHub: https://github.com/hrshagarwal  
 - LinkedIn: https://linkedin.com/in/YOUR_LINK  
-
