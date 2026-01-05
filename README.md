@@ -1,8 +1,6 @@
-<img src="github_banner.png" alt="Header" />
+<img src="https://raw.githubusercontent.com/hrshagarwal/hrshagarwal/main/github_banner.png" alt="Header" />
 
-
-
-# Hello, folks! <img src="wave.gif" width="30px" height="30px" />
+# Hello, folks! 👋
 
 My name is **Harsh Agarwal**.  
 I enjoy learning how software systems work, building things step by step, and improving through problem-solving.
@@ -14,45 +12,42 @@ You can find me on GitHub or LinkedIn.
 ## 🔧 Technologies & Tools
 
 ### 🧑‍💻 Programming
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-2bbc8a?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white)
 
 ### 🛠 Tools & OS
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-2bbc8a?style=flat&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Tools-Jupyter-2bbc8a?style=flat&logo=jupyter&logoColor=white)
 
 ### 📚 Libraries & Frameworks
-![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GUI-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![NumPy](https://img.shields.io/badge/Lib-NumPy-2bbc8a?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Lib-Pandas-2bbc8a?style=flat&logo=pandas&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-2bbc8a?style=flat&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-2bbc8a?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Framework-Express-2bbc8a?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-2bbc8a?style=flat&logo=react&logoColor=white)
 
 ### 🌐 Web & Databases
-![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/Web-HTML-2bbc8a?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Web-CSS-2bbc8a?style=flat&logo=css3&logoColor=white)
+![REST](https://img.shields.io/badge/API-REST-2bbc8a?style=flat)
+![SQL](https://img.shields.io/badge/DB-SQL-2bbc8a?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/DB-MongoDB-2bbc8a?style=flat&logo=mongodb&logoColor=white)
 
 ---
-## 📈 GitHub Stats
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=dark&hide_border=true&langs_count=5&cache_seconds=1800"
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=hrshagarwal&theme=dark&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
+
 ---
 
 ### 🔗 Links
@@ -60,5 +55,5 @@ You can find me on GitHub or LinkedIn.
 - LinkedIn: https://www.linkedin.com/in/harshagarwal22/
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat" />
 </p>
