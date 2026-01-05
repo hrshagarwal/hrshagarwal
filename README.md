@@ -41,16 +41,18 @@ You can find me on GitHub or LinkedIn.
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 ---
-
 ## 📈 GitHub Stats
 
-<a href="https://github.com/hrshagarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/hrshagarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=dark&hide_border=true&langs_count=5&cache_seconds=1800"
+    height="170"
+  />
+</p>
 ---
 
 ### 🔗 Links
