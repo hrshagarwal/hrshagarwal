@@ -43,7 +43,7 @@ You can find me on GitHub or LinkedIn.
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=github-compact" />
 </p>
 
 ---
