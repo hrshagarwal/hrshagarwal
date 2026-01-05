@@ -39,13 +39,11 @@ You can find me on GitHub or LinkedIn.
 
 ---
 
-## 🔥 GitHub Streak
+
+### 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=hrshagarwal&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
 </p>
 
 ---
