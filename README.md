@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hrshagarwal/hrshagarwal/main/github_banner.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Harsh Agarwal 👋</h1>
+<h1 align="center">Hi, I'm Harsh Agarwal 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshagarwal22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,18 +10,19 @@
 </p>
 
 <p align="center">
-  <strong>Passionate Developer | MERN Stack Enthusiast | Problem Solver</strong>
+  <strong>Software Developer | Problem Solver | Data Science Enthusiast</strong>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I’m a developer who enjoys deconstructing complex software systems and rebuilding them from the ground up. Whether it's crafting responsive web applications or diving into data-driven insights, I'm always looking for the next challenge to solve.
+I am a software developer focused on building efficient systems and data-driven applications. I bridge the gap between low-level logic and modern web frameworks.
 
-- 🚀 **Currently working on:** Enhancing my skills in the MERN stack and exploring AI/ML.
-- 🛠️ **Strongest suits:** Full-stack development, Python scripting, and system architecture.
-- 🎓 **Focus:** Building efficient, scalable, and user-centric software solutions.
+- 🛠️ **Systems & Core:** Proficient in **C** and **C++** for high-performance logic.
+- 📊 **Data Science:** Leveraging **Python**, **NumPy**, **Pandas**, and **Matplotlib** to derive insights from data.
+- 🌐 **Modern Web:** Moving beyond the basics with **Next.js** and **Tailwind CSS**.
+- 🚀 **Goals:** Continuously optimizing my workflow and exploring scalable system architectures.
 
 ---
 
@@ -29,47 +30,52 @@ I’m a developer who enjoys deconstructing complex software systems and rebuild
 
 <table align="center">
   <tr>
-    <td align="center" width="250"><strong>Languages</strong></td>
+    <td align="center" width="250"><strong>Core Programming</strong></td>
     <td align="center" width="250"><strong>Web Development</strong></td>
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Data & Tools</strong></td>
-    <td align="center"><strong>Environment</strong></td>
+    <td align="center"><strong>Data & Analysis</strong></td>
+    <td align="center"><strong>Infrastructure & DB</strong></td>
   </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
-
+### 🏆 GitHub Trophies
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshagarwal&theme=tokyonight&no-bg=true&margin-w=15" alt="hrshagarwal trophies" /></a>
+</p>
+
+### 🔥 Contributions & Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshagarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -78,10 +84,9 @@ I’m a developer who enjoys deconstructing complex software systems and rebuild
 
 ---
 
-### 🤝 Let's Connect!
+### 📫 Connect with Me
 
-- 📧 Reach out to me via **[LinkedIn](https://www.linkedin.com/in/harshagarwal22/)**
-- 📂 Check out my repositories for my latest projects.
+- 💼 **LinkedIn:** [harshagarwal22](https://www.linkedin.com/in/harshagarwal22/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat-square" />
