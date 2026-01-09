@@ -68,10 +68,7 @@ I am a software developer focused on building efficient systems and data-driven 
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshagarwal&theme=tokyonight&no-bg=true&margin-w=15" alt="hrshagarwal trophies" /></a>
-</p>
+
 
 ### 🔥 Contributions & Streaks
 <p align="center">
