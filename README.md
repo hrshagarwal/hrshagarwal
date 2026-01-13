@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/hrshagarwal/hrshagarwal/main/github_banner.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Harsh Agarwal 👋</h1>
+<h1 align="center">Hi, I'm Harsh Agarwal <img src="wave.gif" width="30px" height="30px" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshagarwal22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
