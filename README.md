@@ -2,37 +2,44 @@
   <img src="https://raw.githubusercontent.com/hrshagarwal/hrshagarwal/main/github_banner.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Harsh Agarwal <img src="wave.gif" width="30px" height="30px" />
+<h1 align="center">
+  Hi, I'm Harsh Agarwal 
+  <img src="wave.gif" width="30px" height="30px" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshagarwal22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hrshagarwal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshagarwal22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/hrshagarwal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Software Developer | Problem Solver | Data Science Enthusiast</strong>
+  <strong>Backend-Oriented Software Developer | Problem Solver | Data Science Enthusiast</strong>
 </p>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-I am a software developer focused on building efficient systems and data-driven applications. I bridge the gap between low-level logic and modern web frameworks.
+I am a software developer focused on building **correct, reliable, and scalable backend systems**.  
+I enjoy working close to the logic — from low-level problem solving to backend APIs that actually work under real conditions.
 
-- 🛠️ **Systems & Core:** Proficient in **C** and **C++** for high-performance logic.
-- 📊 **Data Science:** Leveraging **Python**, **NumPy**, **Pandas**, and **Matplotlib** to derive insights from data.
-- 🌐 **Modern Web:** Moving beyond the basics with **Next.js** and **Tailwind CSS**.
-- 🚀 **Goals:** Continuously optimizing my workflow and exploring scalable system architectures.
+- 🛠️ **Systems & Core:** Strong foundation in **C** and **C++** for performance-oriented logic.
+- 🌐 **Backend Development:** Experienced in building **CRUD-based REST APIs**, validations, and database-driven applications.
+- 📊 **Data Science:** Using **Python**, **NumPy**, **Pandas**, and **Matplotlib** for analysis and experimentation.
+- 🚀 **Mindset:** I value correctness, clean structure, and understanding how things work under the hood.
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <table align="center">
   <tr>
     <td align="center" width="250"><strong>Core Programming</strong></td>
-    <td align="center" width="250"><strong>Web Development</strong></td>
+    <td align="center" width="250"><strong>Backend & Web</strong></td>
   </tr>
   <tr>
     <td>
@@ -42,15 +49,15 @@ I am a software developer focused on building efficient systems and data-driven 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Data & Analysis</strong></td>
-    <td align="center"><strong>Infrastructure & DB</strong></td>
+    <td align="center"><strong>Databases & Tools</strong></td>
   </tr>
   <tr>
     <td>
@@ -69,9 +76,18 @@ I am a software developer focused on building efficient systems and data-driven 
 
 ---
 
+## 🌐 Backend-Focused Web Development
 
+- ⚙️ **API Development:** Designing and implementing **CRUD-based REST APIs** using **Node.js**, with clean routing and modular structure.
+- 🛡️ **Validations:** Strong experience with **server-side validations** to maintain data integrity and security, along with **client-side validations** for better user experience.
+- 🔄 **Database Operations:** Comfortable with **Create, Read, Update, Delete** operations using **MongoDB / SQL**, including error handling and edge cases.
+- 🔌 **Frontend Integration:** Integrating backend services with **React / Next.js** frontends and managing API-driven data flow.
+- 🧠 **Backend Mindset:** Focused on correctness, structured request–response handling, and maintainable backend logic.
 
-### 🔥 Contributions & Streaks
+---
+
+## 🔥 Contributions & Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshagarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -82,7 +98,7 @@ I am a software developer focused on building efficient systems and data-driven 
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
 - 💼 **LinkedIn:** [harshagarwal22](https://www.linkedin.com/in/harshagarwal22/)
 
