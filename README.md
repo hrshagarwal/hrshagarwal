@@ -8,6 +8,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://harshagarwaliitj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/harshagarwal22/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend-Oriented Software Developer | Problem Solver | Data Science Enthusiast</strong>
+  <strong>Backend-Oriented Software Developer • Problem Solver • Data Science Enthusiast</strong>
 </p>
 
 ---
@@ -27,10 +30,11 @@
 I am a software developer focused on building **correct, reliable, and scalable backend systems**.  
 I enjoy working close to the logic — from low-level problem solving to backend APIs that actually work under real conditions.
 
-- 🛠️ **Systems & Core:** Strong foundation in **C** and **C++** for performance-oriented logic.
-- 🌐 **Backend Development:** Experienced in building **CRUD-based REST APIs**, validations, and database-driven applications.
-- 📊 **Data Science:** Using **Python**, **NumPy**, **Pandas**, and **Matplotlib** for analysis and experimentation.
-- 🚀 **Mindset:** I value correctness, clean structure, and understanding how things work under the hood.
+- 🛠️ **Systems & Core:** Strong foundation in **C** and **C++**
+- 🌐 **Backend:** REST APIs with **Node.js / MongoDB / SQL**
+- 📊 **Data Science:** Python ecosystem (**NumPy, Pandas, Matplotlib**)
+- 🚀 **Focus:** Clean architecture, correctness, performance
+- 🌍 **Portfolio:** 👉 https://harshagarwaliitj.vercel.app/
 
 ---
 
@@ -76,31 +80,19 @@ I enjoy working close to the logic — from low-level problem solving to backend
 
 ---
 
-## 🌐 Backend-Focused Web Development
-
-- ⚙️ **API Development:** Designing and implementing **CRUD-based REST APIs** using **Node.js**, with clean routing and modular structure.
-- 🛡️ **Validations:** Strong experience with **server-side validations** to maintain data integrity and security, along with **client-side validations** for better user experience.
-- 🔄 **Database Operations:** Comfortable with **Create, Read, Update, Delete** operations using **MongoDB / SQL**, including error handling and edge cases.
-- 🔌 **Frontend Integration:** Integrating backend services with **React / Next.js** frontends and managing API-driven data flow.
-- 🧠 **Backend Mindset:** Focused on correctness, structured request–response handling, and maintainable backend logic.
-
----
-
-## 🔥 Contributions & Activity
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshagarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=github-compact" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [harshagarwal22](https://www.linkedin.com/in/harshagarwal22/)
+- 💼 LinkedIn: https://www.linkedin.com/in/harshagarwal22/
+- 🌐 Portfolio: https://harshagarwaliitj.vercel.app/
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrshagarwal&label=Profile%20views&color=2bbc8a&style=flat-square" />
