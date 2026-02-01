@@ -84,7 +84,9 @@ I enjoy working close to the logic — from low-level problem solving to backend
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&bg_color=000000&title_color=8e44ad&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
