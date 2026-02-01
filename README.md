@@ -83,9 +83,18 @@ I enjoy working close to the logic — from low-level problem solving to backend
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hrshagarwal&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ---
 
