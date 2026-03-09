@@ -28,12 +28,15 @@
 ## 💫 About Me
 
 I am a software developer focused on building **correct, reliable, and scalable backend systems**.  
-I enjoy working close to the logic — from low-level problem solving to backend APIs that actually work under real conditions.
+I enjoy working close to the logic — from low-level problem solving to backend APIs and systems that work under real conditions.
 
 - 🛠️ **Systems & Core:** Strong foundation in **C** and **C++**
-- 🌐 **Backend:** REST APIs with **Node.js / MongoDB / SQL**
-- 📊 **Data Science:** Python ecosystem (**NumPy, Pandas, Matplotlib**)
-- 🚀 **Focus:** Clean architecture, correctness, performance
+- 🌐 **Backend Development:** REST APIs with **Node.js / MongoDB / SQL**
+- 📊 **Data Science & ML:** Python ecosystem (**NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn**)
+- 🤖 **Machine Learning:** Familiar with **Linear Regression, Logistic Regression, Ridge, Lasso, and Naive Bayes**
+- 🌐 **Networking:** Experience with **Software Defined Networking (SDN)** using **Mininet**
+- 🧪 **Data Analysis:** Workflow using **Jupyter Notebook**
+- 🚀 **Focus:** Clean architecture, correctness, and performance
 - 🌍 **Portfolio:** 👉 https://harshagarwaliitj.vercel.app/
 
 ---
@@ -60,7 +63,7 @@ I enjoy working close to the logic — from low-level problem solving to backend
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Data & Analysis</strong></td>
+    <td align="center"><strong>Data Science & ML</strong></td>
     <td align="center"><strong>Databases & Tools</strong></td>
   </tr>
   <tr>
@@ -68,10 +71,14 @@ I enjoy working close to the logic — from low-level problem solving to backend
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mininet-SDN-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
@@ -96,7 +103,6 @@ I enjoy working close to the logic — from low-level problem solving to backend
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=tokyo-night&hide_border=true"/>
 </p>
-
 
 ---
 
