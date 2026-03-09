@@ -27,19 +27,16 @@
 
 ## 💫 About Me
 
-I am a software developer focused on building **correct, reliable, and scalable backend systems**.  
-I enjoy working close to the logic — from low-level problem solving to backend APIs and systems that work under real conditions.
+I'm a developer who enjoys solving problems close to the fundamentals — from algorithms and low-level programming to building reliable backend systems.
 
-- 🛠️ **Systems & Core:** Strong foundation in **C** and **C++**
-- 🌐 **Backend Development:** REST APIs with **Node.js / MongoDB / SQL**
-- 📊 **Data Science & ML:** Python ecosystem (**NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn**)
-- 🤖 **Machine Learning:** Familiar with **Linear Regression, Logistic Regression, Ridge, Lasso, and Naive Bayes**
-- 🌐 **Networking:** Experience with **Software Defined Networking (SDN)** using **Mininet**
-- 🧪 **Data Analysis:** Workflow using **Jupyter Notebook**
-- 🚀 **Focus:** Clean architecture, correctness, and performance
-- 🌍 **Portfolio:** 👉 https://harshagarwaliitj.vercel.app/
+My main tools are **C/C++ and Python**, and I work across **backend development, data analysis, and machine learning**.
 
----
+I have experience working with the **Python data ecosystem (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)**, experimenting with models like **Linear/Logistic Regression, Ridge, Lasso, and Naive Bayes**, and exploring **Software Defined Networking using Mininet**.
+
+I enjoy building things that are **simple, correct, and well-structured**.
+
+🎓 Civil Engineering @ IIT Jammu  
+🏆 Smart India Hackathon Winner
 
 ## 🛠️ Technologies & Tools
 
