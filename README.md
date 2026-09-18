@@ -136,10 +136,19 @@ An Airbnb-style rental platform, built to get the boring parts right: authorizat
 </p>
 
 ## GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&bg_color=000000&title_color=8e44ad&text_color=ffffff" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=hrshagarwal&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
