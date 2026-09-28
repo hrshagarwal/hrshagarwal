@@ -135,21 +135,23 @@ An Airbnb-style rental platform, built to get the boring parts right: authorizat
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-## GitHub
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&layout=compact&theme=tokyonight&bg_color=000000&title_color=8e44ad&text_color=ffffff" alt="Top Languages" />
+  <img height="170" src="https://github-readme-self.vercel.app/api/stats?username=hrshagarwal" />
+  <img height="170" src="https://github-readme-self.vercel.app/api/top-langs?username=hrshagarwal&include=Content-diffusion-simulator" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hrshagarwal&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-self.vercel.app/api/streak?user=hrshagarwal" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshagarwal&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-self.vercel.app/api/activity?username=hrshagarwal" />
 </p>
+
+<br>
+
 
 ---
 
